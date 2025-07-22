@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saurabh Maurya</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 
-- 🌱 I’m currently learning **node.js**
-
-- 💬 Ask me about **react,tailwind**
+- 💬 Ask me about **springboot,react,nodejs**
 
 - 📫 How to reach me **saurabhmaurya1309@gmail.com**
 
