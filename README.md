@@ -137,18 +137,7 @@ An online education platform where students can purchase and enroll in courses.
 - 💻 **700+** problems solved on GeeksforGeeks
 - 🔥 **172-day** GeeksforGeeks streak
 - ⭐ **2 Star** on CodeChef
-
----
-
-## 🎯 Currently Learning
-
-- Advanced Spring Boot
-- Backend Architecture & System Design
-- TypeScript
-- AI Application Development
-- RAG & AI-powered applications
-- Docker & Deployment
-
+  
 ---
 
 ## 📫 Connect With Me
