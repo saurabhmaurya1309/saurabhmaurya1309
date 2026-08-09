@@ -1,6 +1,6 @@
 # Hi, I'm Saurabh Maurya 👋
 
-### Software Developer | Java | Spring Boot | React.js
+### Software Developer | Java | Spring Boot | React.js | Immediate joiner
 
 I'm a Software Developer focused on building reliable and scalable
 full-stack web applications using **Java, Spring Boot, React.js, and SQL**.
@@ -18,7 +18,6 @@ real-time systems.
 - 🛒 Building a **Multi-Vendor E-Commerce Platform** using Spring Boot and React
 - ⚡ Experienced in **REST APIs, JWT Authentication, WebSockets & Database Design**
 - 📦 Interested in **Backend Development, System Design & Full-Stack Engineering**
-- 🤖 Exploring **AI integration and RAG-based applications**
 - 🧩 Solved **1000+ Data Structures & Algorithms problems**
 - 📫 Reach me at **saurabhmaurya1309@gmail.com**
 
@@ -108,7 +107,7 @@ functionalities.
 - JWT authentication and role-based authorization
 - Product-support chatbot
 
-👉 **[View Project](#)**
+👉 **[View Project](https://github.com/saurabhmaurya1309/Ecommerce-Multivender)**
 
 ---
 
@@ -128,7 +127,7 @@ An online education platform where students can purchase and enroll in courses.
 - Payment integration
 - RESTful APIs
 
-👉 **[View Project](#)**
+👉 **[View Project](https://studynotion-frontend-git-main-saurabhmaurya1309s-projects.vercel.app/)**
 
 ---
 
@@ -164,7 +163,7 @@ An online education platform where students can purchase and enroll in courses.
   </a>
 
   <!-- Replace # with your actual LinkedIn URL -->
-  <a href="#">
+  <a href="https://www.linkedin.com/in/saurabhmaurya1309/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
